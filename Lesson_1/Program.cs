@@ -27,7 +27,7 @@ namespace lesson_1_enter
 
             float avertemp = (mintemp + maxtemp) / 2;
 
-            Console.WriteLine("Среденесуточная температура: " + avertemp););
+            Console.WriteLine("Среденесуточная температура: " + avertemp);
                         
         }
     }
