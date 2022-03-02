@@ -9,8 +9,7 @@ namespace lesson_1_enter
     internal class Program
     {
         static void Main(string[] args)
-        {
-                  
+        {                  
             //1. Запросить у пользователя минимальную и максимальную температуру за сутки и вывести среднесуточную температуру.
 
             float mintemp, maxtemp;
@@ -27,8 +26,7 @@ namespace lesson_1_enter
 
             float avertemp = (mintemp + maxtemp) / 2;
 
-            Console.WriteLine("Среденесуточная температура: " + avertemp););
-                        
+            Console.WriteLine("Среденесуточная температура: " + avertemp);
         }
     }
 }
